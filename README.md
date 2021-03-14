@@ -1,5 +1,5 @@
 # python-pokemonstatus
 
-[notebook](https://www.kaggle.com/abcsds/pokemon).
+[notebook](https://www.kaggle.com/abcsds/pokemon) usado para pegar os dados.
 
-![Genres](https://imgur.com/a/A7zOrvX)
+![Genres](https://i.imgur.com/a/A7zOrvX)
